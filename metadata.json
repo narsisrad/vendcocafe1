@@ -1,0 +1,6 @@
+{
+  "name": "BaristaPro - سامانه تخصصی ملزومات کافی‌شاپ",
+  "description": "پلتفرم جامع فروشگاه ملزومات، دان قهوه، سیروپ و تجهیزات باریستا و کافه‌داری با سئو پیشرفته، سبد خرید الهام‌گرفته از دیجی‌کالا و پنل مدیریت جامع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
